@@ -36,11 +36,12 @@
 ![Github Flow](https://img.shields.io/badge/Github%20Flow-181717?logo=Github&logoColor=white&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ## &#128202; GitHub Stats
+![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tsm55555&countColor=rgb(35,%20168,%20247))
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=tsm55555" />
 </a>
 
-![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tsm55555&countColor=rgb(35,%20168,%20247))
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=tsm55555&border_radius=0&icon_color=0aa&bg_color=000&text_color=ccc&title_color=FCE928&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsm55555&layout=compact&hide=HTML,CSS&bg_color=000&title_color=FCE928&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&text_color=fff&langs_count=8&border_radius=0&exclude_repo=bert-named-entity-recognition)
