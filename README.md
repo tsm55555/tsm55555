@@ -1,4 +1,5 @@
 # About Me
+![Profile views](https://komarev.com/ghpvc/?username=tsm55555)
 
 - A CS major student from Taiwan
 
