@@ -9,7 +9,8 @@
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:scupper.09tier@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yen-cheng-lin-78351122b/)
-
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/7dI_4qs1TQ_zAgNhWp1AGM2ZJXsXj5ws91AodyXzC_4KORqwNEBPM52LoNj36p_i
+)
 
 ## &#128296; Tech Stack
 
