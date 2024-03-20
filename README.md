@@ -39,7 +39,6 @@
 ![Github Flow](https://img.shields.io/badge/Github%20Flow-181717?logo=Github&logoColor=white&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ## &#128202; GitHub Stats
-![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tsm55555&countColor=rgb(35,%20168,%20247))
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=tsm55555" />
